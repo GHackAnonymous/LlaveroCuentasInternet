@@ -1,4 +1,4 @@
-package llaverocuentasinternet;
+package llaverocuentasinternet.Modelo;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
